@@ -1,0 +1,21 @@
+{
+	"title": "Love Potion Commotion",
+	"description": "",
+	"artist": "Cloppy Hooves",
+	"author": "Pone-Tan",
+	"cover": "https://cdn.ponybooru.org/img/view/2020/7/7/15338.png",
+	"chapters": {
+      "1": {
+        "title": "WHERE ARE ALL THE CHAPTERS?",
+        "volume": "1",
+        "groups": {
+          "Ponybooru": [
+            "https://cdn.ponybooru.org/img/view/2020/7/7/15356.mp4",
+            "https://cdn.ponybooru.org/img/view/2020/7/7/15388.mp4",
+            "https://cdn.ponybooru.org/img/view/2020/7/7/15412.png"
+          ]
+        },
+        "last_updated": "1621397757"
+      }
+    }
+}
